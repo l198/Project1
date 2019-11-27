@@ -1,1 +1,6 @@
 this file is describing about the addition of 2 numbers
+
+a=10;
+b=30;
+c=a+b=40;
+
